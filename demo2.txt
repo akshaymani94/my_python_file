@@ -1,0 +1,5 @@
+This is another sample file 
+to check the with syntax for
+file operation
+This is the newly appended line
+This is the newly appended line
